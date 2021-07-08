@@ -1,2 +1,2 @@
-# Monto-Carlo-Simulation
+# Monte-Carlo-Simulation
 Computer Modeling and Simulation
